@@ -1,0 +1,11 @@
+I added matplotlib so that I could plot my gradient descent graphs
+When you run my code it should pop up, the numbers are also output to console.
+
+To run the Stochastic gradient descent, simply run the SGD.py file
+There is an argument in the stochastic_gradient_descent called 'init_type'
+It is currently set to random, but you can change it to 'zeros' to run that implementation
+
+To run the neural network code just run nn.py and it runs all variations of it
+
+To run the logistic regression model, run log_reg.py
+Change the 'est_type' param in stochastic_gradient_descent() to 'MAP' or to 'ML' depending on how you want to run it.
